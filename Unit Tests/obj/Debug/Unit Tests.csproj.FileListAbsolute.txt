@@ -1,0 +1,43 @@
+F:\Visual Studio\2012\Programs\Client\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Sites\Bems\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Unit Tests.dll.config
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Unit Tests.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Unit Tests.pdb
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Moq.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Ninject.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\WCF Web Services.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\EntityFramework.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\WCF Web Services.pdb
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Moq.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Ninject.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\EntityFramework.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Sean\Sites\Bems\Unit Tests\obj\Debug\Unit Tests.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\obj\Debug\Unit Tests.pdb
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Site.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Site.pdb
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\Aspose.Pdf.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\PDF.dll
+C:\Users\Sean\Sites\Bems\Unit Tests\bin\Debug\PDF.pdb

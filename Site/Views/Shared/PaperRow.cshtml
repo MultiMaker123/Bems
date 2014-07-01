@@ -1,0 +1,11 @@
+﻿@model Site.DB.Report
+
+@using (Html.BeginForm("Update", "Editor", new { Id = @Model.ID }, FormMethod.Post, new { Class = "container form-horizontal" }))
+{
+    @Html.Hidden("Id", @Model.ID);
+    @Html.TextBoxFor(p => p.Name);<br />
+    @Html.TextBoxFor(p => p.Amount);<br />
+    <button type="submit" class="btn btn-primary col-md-1">Save</button>
+    <a class="btn btn-danger col-md-1" href="@Url.Action("Delete", "Editor", new { viewContext = "report", Ids = Model.ID })">Delete</a>
+    <a class="btn btn-primary col-md-1" href="@Url.Action("MakePdf", "Pdf", new { FromUrl = Request.Url.Scheme + "://" + Request.Url.Authority.ToString() + "/Editor/Edit" })">Create PDF</a>
+}

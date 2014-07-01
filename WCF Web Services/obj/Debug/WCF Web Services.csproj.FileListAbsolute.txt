@@ -1,0 +1,10 @@
+F:\Visual Studio\2012\Programs\Client\WCF Web Services\bin\Debug\WCF Web Services.dll.config
+F:\Visual Studio\2012\Programs\Client\WCF Web Services\bin\Debug\WCF Web Services.dll
+F:\Visual Studio\2012\Programs\Client\WCF Web Services\bin\Debug\WCF Web Services.pdb
+F:\Visual Studio\2012\Programs\Client\WCF Web Services\obj\Debug\WCF Web Services.dll
+F:\Visual Studio\2012\Programs\Client\WCF Web Services\obj\Debug\WCF Web Services.pdb
+C:\Users\Sean\Sites\Bems\WCF Web Services\bin\Debug\WCF Web Services.dll.config
+C:\Users\Sean\Sites\Bems\WCF Web Services\bin\Debug\WCF Web Services.dll
+C:\Users\Sean\Sites\Bems\WCF Web Services\bin\Debug\WCF Web Services.pdb
+C:\Users\Sean\Sites\Bems\WCF Web Services\obj\Debug\WCF Web Services.dll
+C:\Users\Sean\Sites\Bems\WCF Web Services\obj\Debug\WCF Web Services.pdb

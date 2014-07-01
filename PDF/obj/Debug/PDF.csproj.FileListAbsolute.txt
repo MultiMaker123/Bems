@@ -1,0 +1,17 @@
+F:\Visual Studio\2012\Programs\Client\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\Visual Studio\2012\Programs\Client\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\Visual Studio\2012\Programs\Client\ClassLibrary1\bin\Debug\Aspose.Pdf.dll
+F:\Visual Studio\2012\Programs\Client\ClassLibrary1\obj\Debug\PDF.csprojResolveAssemblyReference.cache
+F:\Visual Studio\2012\Programs\Client\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\Visual Studio\2012\Programs\Client\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Sean\Sites\Bems\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Sean\Sites\Bems\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sean\Sites\Bems\ClassLibrary1\bin\Debug\Aspose.Pdf.dll
+C:\Users\Sean\Sites\Bems\ClassLibrary1\obj\Debug\PDF.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Sites\Bems\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Sean\Sites\Bems\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Sean\Sites\Bems\PDF\bin\Debug\PDF.dll
+C:\Users\Sean\Sites\Bems\PDF\bin\Debug\PDF.pdb
+C:\Users\Sean\Sites\Bems\PDF\bin\Debug\Aspose.Pdf.dll
+C:\Users\Sean\Sites\Bems\PDF\obj\Debug\PDF.dll
+C:\Users\Sean\Sites\Bems\PDF\obj\Debug\PDF.pdb

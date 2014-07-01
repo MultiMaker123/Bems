@@ -1,0 +1,13 @@
+﻿@model Site.ViewModels.EditorViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+@foreach (var row in Model.Papers)
+{
+    Html.RenderPartial("PaperRow", row);
+}
+
+<a class="btn btn-success col-md-2" href="@Url.Action("Create", "Editor", new { viewContext = "report"})">Create Invoice</a>

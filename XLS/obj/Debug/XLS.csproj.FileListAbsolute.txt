@@ -1,0 +1,23 @@
+F:\Visual Studio\2012\Programs\Client\XLS\bin\Debug\XLS.dll
+F:\Visual Studio\2012\Programs\Client\XLS\bin\Debug\XLS.pdb
+F:\Visual Studio\2012\Programs\Client\XLS\bin\Debug\XLS.dll.manifest
+F:\Visual Studio\2012\Programs\Client\XLS\bin\Debug\XLS.vsto
+F:\Visual Studio\2012\Programs\Client\XLS\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\Visual Studio\2012\Programs\Client\XLS\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\Visual Studio\2012\Programs\Client\XLS\obj\Debug\XLS.csprojResolveAssemblyReference.cache
+F:\Visual Studio\2012\Programs\Client\XLS\obj\Debug\XLS.Properties.Resources.resources
+F:\Visual Studio\2012\Programs\Client\XLS\obj\Debug\XLS.csproj.GenerateResource.Cache
+F:\Visual Studio\2012\Programs\Client\XLS\obj\Debug\XLS.dll
+F:\Visual Studio\2012\Programs\Client\XLS\obj\Debug\XLS.pdb
+C:\Users\Sean\Sites\Bems\XLS\bin\Debug\XLS.dll
+C:\Users\Sean\Sites\Bems\XLS\bin\Debug\XLS.pdb
+C:\Users\Sean\Sites\Bems\XLS\bin\Debug\XLS.dll.manifest
+C:\Users\Sean\Sites\Bems\XLS\bin\Debug\XLS.vsto
+C:\Users\Sean\Sites\Bems\XLS\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Sean\Sites\Bems\XLS\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Sean\Sites\Bems\XLS\obj\Debug\XLS.Properties.Resources.resources
+C:\Users\Sean\Sites\Bems\XLS\obj\Debug\XLS.csproj.GenerateResource.Cache
+C:\Users\Sean\Sites\Bems\XLS\obj\Debug\XLS.dll
+C:\Users\Sean\Sites\Bems\XLS\obj\Debug\XLS.pdb
+C:\Users\Sean\Sites\Bems\XLS\bin\Debug\Aspose.Cells.dll
+C:\Users\Sean\Sites\Bems\XLS\obj\Debug\XLS.csprojResolveAssemblyReference.cache
